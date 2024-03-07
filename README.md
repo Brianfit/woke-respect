@@ -1,8 +1,7 @@
 'I wish I had a little thing on my computer that just replaced the word 'respect for other people' with 'treating people with respect' —Neil Gaiman
 
 
-<img src="https://github.com/Brianfit/respect for other people-respect/blob/master/1280x440.png?raw=true" align="center"
-     alt="Project logo by Brian Fitzgerald">
+<img src="https://github.com/Brianfit/respect for other people-respect/blob/master/1280x440.png?raw=true" align="center" alt="Project logo by Brian Fitzgerald">
 
 Description
 Here you go, Neil. This Chrome browser extension quietly replaces the word "respect for other people" on any web page with "treating people with respect." The results can be rather hilarious. 
